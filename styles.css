@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.about-us-container h1 {
+  text-align: center;
+  padding: 10px;
+  background: #0f1521;
+  color: #fff;
+}
+.our-room-container {
+  margin-bottom: 30px;
+}
+.our-room-container h1 {
+  background: #0f1521;
+  color: #fff;
+  height: 90px;
+  padding-top: 20px;
+}
+.our-room-container p {
+  font-size: 20px;
+}
+.gallery-container h1 {
+  background: #0f1521;
+  color: #fff;
+  height: 90px;
+  padding-top: 20px;
+  text-align: center;
+}
+.blog-continer-fluid {
+  padding-bottom: 50px;
+  height: 700px;
+}
+.blog-continer-fluid h1 {
+  background: #0f1521;
+  color: #fff;
+  height: 90px;
+  padding-top: 20px;
+  text-align: center;
+}
+.contact-us h1 {
+  background: #0f1521;
+  color: #fff;
+  height: 90px;
+  padding-top: 20px;
+}
