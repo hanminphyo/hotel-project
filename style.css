@@ -23,6 +23,12 @@
 .about-us-container {
   height: 400px;
 }
+.about-us-container img {
+  animation-name: zoomIn;
+  animation-duration: 5s;
+  animation-timing-function: ease;
+  animation-delay: 1.5s;
+}
 .about-us-container p {
   text-align: left;
   line-height: 2;
@@ -30,6 +36,12 @@
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
+}
+.our-room-container img {
+  animation-name: zoomIn;
+  animation-duration: 5s;
+  animation-timing-function: ease;
+  animation-delay: 2s;
 }
 .our-room-container h1,
 p {
@@ -45,6 +57,12 @@ p {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-style: normal;
+}
+.gallery-container img {
+  animation-name: zoomIn;
+  animation-duration: 5s;
+  animation-timing-function: ease;
+  animation-delay: 3s;
 }
 .blog {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
