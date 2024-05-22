@@ -9,6 +9,10 @@
   background: #0f1521;
   color: #fff;
 }
+.about-us-container img {
+  height: 300px;
+  width: 500px;
+}
 .our-room-container {
   margin-bottom: 30px;
 }
